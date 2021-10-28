@@ -3,7 +3,7 @@
 * Implement JWT auth in FastAPI
 * Use multithreading
 
-##Solution
+## Solution
 ### Architecture
 1. app/auth contains the files needed for jwt authentication
 2. app/api.py contains the code for API endpoints and multithreading (and multiprocressing)
