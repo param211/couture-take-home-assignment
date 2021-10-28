@@ -4,6 +4,7 @@
 * Use multithreading
 
 ## Solution
+![Screenshot](https://i.imgur.com/Frf1mbb.png)
 ### Architecture
 1. app/auth contains the files needed for jwt authentication
 2. app/api.py contains the code for API endpoints and multithreading (and multiprocessing)
